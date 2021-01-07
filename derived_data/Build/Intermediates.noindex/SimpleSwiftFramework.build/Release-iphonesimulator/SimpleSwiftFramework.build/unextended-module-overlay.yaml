@@ -1,0 +1,13 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': "/Users/bron/Downloads/iOS Test (Intermediate) Question/Question Projects/SimpleSwiftFramework/derived_data/Build/Products/Release-iphonesimulator/SimpleSwiftFramework.framework/Modules"
+    'contents': [{
+      'type': 'file',
+      'name': "module.modulemap",
+      'external-contents': "/Users/bron/Downloads/iOS Test (Intermediate) Question/Question Projects/SimpleSwiftFramework/derived_data/Build/Intermediates.noindex/SimpleSwiftFramework.build/Release-iphonesimulator/SimpleSwiftFramework.build/unextended-module.modulemap",
+    }]
+  }]
+}

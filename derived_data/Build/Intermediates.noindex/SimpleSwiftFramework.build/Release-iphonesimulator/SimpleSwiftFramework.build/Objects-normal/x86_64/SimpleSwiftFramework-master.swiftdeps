@@ -1,0 +1,5 @@
+version: "Apple Swift version 5.3.1 (swiftlang-1200.0.41 clang-1200.0.32.8)"
+options: "17e2c23b570dff5524f09227cd41a963"
+build_time: [1610038781, 842567000]
+inputs:
+  "/Users/bron/Downloads/iOS Test (Intermediate) Question/Question Projects/SimpleSwiftFramework/SimpleSwiftFramework/CallingFrameworkFunction.swift": [9223372036, 854775807]

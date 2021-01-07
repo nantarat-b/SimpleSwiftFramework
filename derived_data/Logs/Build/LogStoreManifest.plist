@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>2DE76D68-CF45-48E7-AF85-0CB6FEACC7DC</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>2DE76D68-CF45-48E7-AF85-0CB6FEACC7DC.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SimpleSwiftFramework project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SimpleSwiftFramework</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Cleaning project SimpleSwiftFramework with scheme SimpleSwiftFramework and configuration Release</string>
+			<key>timeStartedRecording</key>
+			<real>631731579.69914401</real>
+			<key>timeStoppedRecording</key>
+			<real>631731579.78647602</real>
+			<key>title</key>
+			<string>Cleaning project SimpleSwiftFramework with scheme SimpleSwiftFramework and configuration Release</string>
+			<key>uniqueIdentifier</key>
+			<string>2DE76D68-CF45-48E7-AF85-0CB6FEACC7DC</string>
+		</dict>
+		<key>5A509B0F-6F24-4804-90D0-089CF55EE67B</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>5A509B0F-6F24-4804-90D0-089CF55EE67B.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SimpleSwiftFramework project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SimpleSwiftFramework</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project SimpleSwiftFramework with scheme SimpleSwiftFramework and configuration Release</string>
+			<key>timeStartedRecording</key>
+			<real>631731557.06076896</real>
+			<key>timeStoppedRecording</key>
+			<real>631731565.41846097</real>
+			<key>title</key>
+			<string>Building project SimpleSwiftFramework with scheme SimpleSwiftFramework and configuration Release</string>
+			<key>uniqueIdentifier</key>
+			<string>5A509B0F-6F24-4804-90D0-089CF55EE67B</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
